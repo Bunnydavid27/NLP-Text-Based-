@@ -1,0 +1,13 @@
+The School
+
+10th class
+
+student_name   email                         ph.no
+ 
+virat          virat_kohli@gmail.com          9999999999
+
+
+sharapova       shara_pova12@gmail.com        9888857984
+
+
+keerthy         keerthy@yahoo.in              6309188699
